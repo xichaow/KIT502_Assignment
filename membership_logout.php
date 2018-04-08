@@ -61,11 +61,7 @@
        </div>
        <div id="blank2">You have logged out
        </div>
-       <div id="blank1">
-         <footer>
-           Xichao Wang ID:443197
-         </footer>
-       </div>
+
        
     </body>
     </html>

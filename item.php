@@ -92,9 +92,7 @@
        ?>
        <div id="blank1">
        </div>
-    <footer>
-      Xichao Wang ID:443197
-    </footer>  
+
        
     </body>
     </html>
